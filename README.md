@@ -160,5 +160,8 @@ Starts the server without auto-reload.
 
 <img width="1920" height="1385" alt="ss1" src="https://github.com/user-attachments/assets/a21daaf6-0d3f-4be8-b612-0d66afd9924f" />
 
+<img width="1920" height="1160" alt="ss2" src="https://github.com/user-attachments/assets/371ca405-f8dc-4f1b-9560-345215b58932" />
+
+
 
 
