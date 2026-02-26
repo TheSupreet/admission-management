@@ -156,12 +156,8 @@ npm start
 
 Starts the server without auto-reload.
 
-```markdown
-## 📸 Screenshots
+### Images
+![Uploading screencapture-localhost-4000-2026-02-26-23_12_48.png…]()
 
-### Dashboard View
-<img src="https://github.com/user-attachments/assets/62423957-01af-4bbf-99f9-88c511341217" width="900" />
 
-### Applicant Allocation Page
-<img src="https://github.com/user-attachments/assets/066d4b08-a304-4cf7-9e86-861008f32da2" width="900" />
 
