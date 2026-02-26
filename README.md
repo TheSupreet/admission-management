@@ -34,25 +34,6 @@ A comprehensive MERN (MongoDB, Express, React, Node.js) stack application for ma
 - **Frontend**: React with Hooks
 - **Other**: Mongoose ODM, CORS middleware
 
-## Project Structure
-
-```
-admission-management/
-├── backend/
-│   ├── server.js              # Main Express server
-│   └── models/
-│       ├── Applicant.js       # Applicant data schema
-│       ├── Institution.js     # Institution data schema
-│       ├── Program.js         # Academic program schema
-│       └── SeatMatrix.js      # Seat allocation schema
-├── public/
-│   ├── index.html             # Main HTML file
-│   ├── app.js                 # React frontend application
-│   └── styles.css             # Styling
-├── package.json               # Project dependencies
-└── README.md                  # Project documentation
-```
-
 ## Installation
 
 ### Prerequisites
@@ -174,16 +155,3 @@ npm start
 ```
 
 Starts the server without auto-reload.
-
-## License
-
-MIT License - Feel free to use this project for educational and commercial purposes.
-
-## Version
-
-- Current Version: 1.0.0
-- Last Updated: February 2026
-
----
-
-**Note**: This is an assessment solution for admission management and CRM. Customize the quota configurations and schemas as per your institution's requirements.
