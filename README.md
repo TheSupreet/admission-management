@@ -157,7 +157,8 @@ npm start
 Starts the server without auto-reload.
 
 ### Images
-![Uploading screencapture-localhost-4000-2026-02-26-23_12_48.png…]()
+
+<img width="1920" height="1385" alt="ss1" src="https://github.com/user-attachments/assets/a21daaf6-0d3f-4be8-b612-0d66afd9924f" />
 
 
 
