@@ -1,0 +1,26 @@
+{
+  "name": "admission-management",
+  "version": "1.0.0",
+  "description": "Simple MERN admission management and CRM system (assessment solution)",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "keywords": [
+    "mern",
+    "admission",
+    "crm",
+    "college"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^7.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
